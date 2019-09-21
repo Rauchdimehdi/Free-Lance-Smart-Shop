@@ -1,4 +1,4 @@
-# Smartshop
+# Free-Lance-Smart-Shop
 An e-commerce php/mysql website built from scratch to get started with as a starter template
 
 <h5> Super admin </h5> 
